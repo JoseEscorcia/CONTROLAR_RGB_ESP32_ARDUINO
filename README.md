@@ -12,4 +12,5 @@ Escoger color para LED RGB:
 ![Image text](https://github.com/JoseEscorcia/CONTROLAR_RGB_ESP32_ARDUINO/blob/main/Extracto1.jpeg)
 
 Resultado:
+
 ![Image text](https://github.com/JoseEscorcia/CONTROLAR_RGB_ESP32_ARDUINO/blob/main/Extracto2.JPG)
