@@ -1,5 +1,5 @@
 # CONTROLAR_RGB_ESP32_ARDUINO
-Con este código podrás controlar el color de un diodo LED RGB de ÁNODO COMÚN con PWM mediante Arduino.  
+Con este código podrás controlar el color de un diodo LED RGB de ÁNODO COMÚN con PWM mediante Arduino. Se usaron como guía códigos externos como el de "ESP32 PWM LED Control" de Khaled Magdy (www.DeepBlueMbedded.com) y "Como usar un LED RGB en arduino" del youtuber "AlgoBack" (https://www.youtube.com/watch?v=VxeSEBqDalA&ab_channel=AlgoBack).
 
 Los componentes necesarios para esta práctica son:  ESP32, LED RGB ANODO COMÚN y 3 resistencias de 220ohm.
 
